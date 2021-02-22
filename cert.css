@@ -1,0 +1,12 @@
+/* CERT PAGE SPECIFIC STYLES */
+main{
+  padding-top:120px;
+}
+
+#main-cert{
+  text-align:center;
+}
+
+.white-bold .socialaccountlinks-v2-block .social-icons-style-regular .sqs-use--icon, .white-bold .social-account-links-v2-block .social-icons-style-regular .sqs-use--icon{
+  fill:#00567e;
+}
