@@ -14,3 +14,13 @@ main{
 .course-name{
   font-size:20px;
 }
+
+.hero-logo{
+  width:76%;
+}
+
+@media screen and (min-width: 700px) {
+  .hero-logo{
+    width:46%;
+  }
+}
